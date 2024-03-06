@@ -1,0 +1,42 @@
+Mockups.
+https://marvelapp.com/prototype/f76h27i
+
+Funcionalidades.
+Login y Registro:
+
+Los usuarios pueden iniciar sesión con su usuario y contraseña.
+También se ofrece la opción de iniciar sesión mediante Google o Facebook para mayor comodidad.
+En caso de que el usuario no tenga una cuenta, puede registrarse proporcionando información básica como nombre, correo electrónico y contraseña.
+Perfil:
+
+En esta sección, los usuarios pueden ver y actualizar su información personal.
+Las opciones principales del perfil incluyen:
+Calendario: Acceso al calendario para ver y administrar recordatorios y citas médicas.
+Información: Acceso a la sección donde pueden agregar fotografías, recuerdos y una sección para responder a la pregunta "¿quién soy?".
+Registro de ubicación: Configuración y visualización de alertas y coordenadas de ubicación.
+Historia clínica: Acceso al registro de antecedentes médicos, medicamentos y evolución de la enfermedad.
+Actividades cognitivas: Acceso a juegos y ejercicios de estimulación cognitiva.
+Calendario:
+
+Los usuarios pueden agregar, editar y eliminar recordatorios y citas médicas.
+El sistema enviará notificaciones para recordar eventos importantes.
+Los usuarios pueden ver un resumen de los eventos programados y su importancia.
+Información:
+
+Los usuarios pueden cargar y organizar fotografías, recuerdos y responder a la pregunta "¿quién soy?".
+La sección de "¿quién soy?" puede contener información personal relevante para ayudar al usuario a recordar su identidad.
+Localización:
+
+Los usuarios pueden configurar alertas basadas en la ubicación.
+Pueden establecer coordenadas de ubicación para la función de alerta.
+La aplicación puede rastrear la ubicación real del usuario y proporcionar esta información cuando sea necesario.
+Historia clínica:
+
+Los usuarios pueden mantener un registro de sus antecedentes médicos, medicamentos y tratamientos.
+Pueden registrar la evolución de la enfermedad y cualquier cambio significativo en su estado de salud.
+Actividades cognitivas:
+
+Los usuarios tienen acceso a una variedad de actividades diseñadas para estimular diferentes áreas cognitivas, como la memoria, el lenguaje y la atención.
+Pueden realizar ejercicios de estimulación cognitiva de manera regular para mantener y mejorar sus funciones mentales.
+
+información tomada de: Chat GPT
